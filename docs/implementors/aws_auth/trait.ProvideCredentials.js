@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["aws_auth"] = [];
+implementors["credentials_provider"] = [{"text":"impl <a class=\"trait\" href=\"aws_auth/trait.ProvideCredentials.html\" title=\"trait aws_auth::ProvideCredentials\">ProvideCredentials</a> for <a class=\"struct\" href=\"credentials_provider/struct.StsCredentialsProvider.html\" title=\"struct credentials_provider::StsCredentialsProvider\">StsCredentialsProvider</a>","synthetic":false,"types":["credentials_provider::StsCredentialsProvider"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

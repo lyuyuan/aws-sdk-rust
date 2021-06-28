@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["invoke_endpoint_output","See `InvokeEndpointOutput`"]],"struct":[["InvokeEndpointOutput",""]]});

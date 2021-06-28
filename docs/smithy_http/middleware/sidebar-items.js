@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["load_response","Load a response using `handler` to parse the results."]],"trait":[["MapRequest","[`MapRequest`] defines a synchronous middleware that transforms an [`operation::Request`]."]]});

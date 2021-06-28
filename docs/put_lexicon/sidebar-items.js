@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main","Stores a pronunciation lexicon in an AWS Region."]],"struct":[["Opt",""]]});

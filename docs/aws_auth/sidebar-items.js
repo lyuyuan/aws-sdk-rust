@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CredentialsError",""]],"fn":[["default_provider",""],["set_provider",""]],"mod":[["provider",""]],"struct":[["Credentials","AWS SDK Credentials"]],"trait":[["ProvideCredentials","A Credentials Provider"]],"type":[["CredentialsProvider",""]]});
